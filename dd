@@ -1,5 +1,5 @@
 docker run vitallens \          
   --YoWSoSsg3U16FHcYziAwIuJEUsgX1Wi1vWZfDVO9 \
-  --/home/toto/vitallens-python/examples/sample_vitals_2.csv \
-  --/home/toto/vitallens-python/examples/sample_video_2.mp4 \
+  --sample_vitals_2.csv \
+  --sample_video_2.mp4 \
   --VITALLENS
