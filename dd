@@ -1,2 +1,2 @@
-docker run vitallens  --api_key YoWSoSsg3U16FHcYziAwIuJEUsgX1Wi1vWZfDVO9 --vitals_path "examples/sample_vitals_2.csv" --video_path "examples/sample_video_2.mp4" \
+docker run vitallens  --api_key YoWSoSsg3U16FHcYziAwIuJEUsgX1Wi1vWZfDVO9 --vitals_path "examples/sample_vitals_2.csv" --video_path "examples/sample_video_2.mp4" 
   --method "VITALLENS"
